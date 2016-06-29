@@ -1,0 +1,15 @@
+p{
+  background-color:#aabbcc;
+  font-family: 'open sans'
+  font-weight:200;
+}
+h1{
+  background-color: blue;
+  background-position: center;
+  text-align: center;
+  padding: 20px;
+}
+.fvi{
+  display:block;
+  margin:0;
+}
